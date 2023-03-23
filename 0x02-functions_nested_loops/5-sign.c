@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sing - Print the sing of a number
+ * print_sing - Prints the sing of a number
  * @n: The number to be checked
  * return: 1 for positive num, -1 for negative num or zero for anything else
  */
